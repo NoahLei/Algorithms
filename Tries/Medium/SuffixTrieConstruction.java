@@ -1,0 +1,2 @@
+public class SuffixTrieConstruction {
+}
